@@ -15,7 +15,8 @@ Data Structures for efficient algorithm implementation
 Clone the repository to your local machine.
 Run the application using Python.
 Simulate elevator requests and observe the optimized scheduling in action.
-Contributions:
+
+**Contributions:**
 Contributions and enhancements are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 **Note:**
